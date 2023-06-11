@@ -7,7 +7,7 @@ Scene types:
 - Scene 2: title screen to start game  
 - Scene 3: introduction scene to help introduce player to story  
 - Scene 4: settings screen to let the player choose between computer and mobile versions  
-- Scene 5: gameplay scenes letting the players move between a few scenes picking up items and choosing an ending  
+- Scene 5: gameplay scenes allow player to move between rooms, pick up items, choose an ending
 - Scene 6: 3 different endings for the player to choose from at the end of the gameplay scenes
 - Scene 7: credits scene
 
